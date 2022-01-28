@@ -1,0 +1,7 @@
+D:\Personal\Descargas\Recuperacion\Barco\Barco\bin\Debug\Barco.exe.config
+D:\Personal\Descargas\Recuperacion\Barco\Barco\bin\Debug\Barco.exe
+D:\Personal\Descargas\Recuperacion\Barco\Barco\bin\Debug\Barco.pdb
+D:\Personal\Descargas\Recuperacion\Barco\Barco\obj\Debug\Barco.csproj.AssemblyReference.cache
+D:\Personal\Descargas\Recuperacion\Barco\Barco\obj\Debug\Barco.csproj.CoreCompileInputs.cache
+D:\Personal\Descargas\Recuperacion\Barco\Barco\obj\Debug\Barco.exe
+D:\Personal\Descargas\Recuperacion\Barco\Barco\obj\Debug\Barco.pdb
